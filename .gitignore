@@ -1,2 +1,4 @@
 # 가중치 저장경로
 save_weights/
+#Tensorboard저장경로
+log_dir/
