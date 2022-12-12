@@ -2,3 +2,5 @@
 save_weights/
 #Tensorboard저장경로
 log_dir/
+#깃이그노어
+.gitignore
